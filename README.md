@@ -44,5 +44,6 @@ McClellan Oscillator เป็นตัวบ่งชี้ที่ช่ว�
 
 ไฟล์นี้เป็นเอกสารที่ช่วยอธิบายแนวคิดของ Market Breadth Indicators และเงื่อนไขใหม่ของ `detect_scenario` เพื่อใช้วิเคราะห์แนวโน้มของตลาด
 
-🔗 [ดูกราฟวิเคราะห์ตลาดได้ที่นี่](https://outliersd-weumrtvxrsaksiumrd2hgg.streamlit.app/?fbclid=IwY2xjawIqDPxleHRuA2FlbQIxMAABHbOdhuREUEkS7ihxxQVh53NjTcNj_JmXBaIWkggStvQryXkhezXcWrLeow_aem_5tTig1IM16WiCzTi7l9fnQ) 🚀📊
+🔗 [ดูกราฟวิเคราะห์ตลาดได้ที่นี่](https://outliersd-vnqc84ze6mo3mv5uyj5tfx.streamlit.app/?fbclid=IwY2xjawIqD29leHRuA2FlbQIxMAABHVtxyy7z6b_Wkatd5sw26Dp14GAix00_8-BNs-pt6H024XBw4EZ2fNFPvg_aem_Wp5k8YTgkkkq_5DMXhNYlg) 🚀📊
+
 
